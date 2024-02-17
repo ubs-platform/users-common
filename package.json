@@ -1,0 +1,20 @@
+{
+  "name": "@ubs-platform/users-common",
+  "version": "1.0.8",
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "~5.3.2",
+    "@types/node": "~18.16.9"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build-publish": "npm run build && npm publish"
+  },
+  "type": "commonjs",
+  "main": "./dist/index.js"
+}
