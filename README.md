@@ -1,5 +1,5 @@
 # users-common
 
-This library has common classes and interfaces that ubs users mona uses as DTO objects and return in these types. So that can used in frontend and backend
+This library has common declerations that is used as HttpResponse in Users Mona
 
-Will be documented fine
+Will be documented well soon
