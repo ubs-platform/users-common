@@ -12,6 +12,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "peerDependencies": {},
   "scripts": {
     "build": "tsc",
     "build-publish": "npm run build && npm publish"
